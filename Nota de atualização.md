@@ -1,11 +1,7 @@
-## Nota de atualização
+## Codes Droid
 
-- Nova interface integrada e limpa;
-- Novos códigos Extras adicionados;
-- Sistema de atualização Aprimorado;
+Março 15, 2023
 
-Espero que goste desta nova versão,
+Bug Fixes
 
-
-Atenciosamente,
-[Rick Droid Dev](https://github.com/RickDroidDev)
+• Esta versão inclui melhorias de segurança. A atualização é recomendada.
